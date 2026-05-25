@@ -1,6 +1,3 @@
-<img width="1214" height="3076" alt="image" src="https://github.com/user-attachments/assets/75cbc335-8121-4809-afc4-c3bd0a0c3308" />
-# 📊 Mobile Sales Price Analysis Dashboard
-
 An interactive data analytics dashboard for exploring mobile phone pricing trends, brand comparisons, and sales insights — built with Power BI / Tableau.
 
 ## Overview
