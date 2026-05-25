@@ -1,3 +1,4 @@
+# 📊 Mobile Sales Price Analysis Dashboard
 An interactive data analytics dashboard for exploring mobile phone pricing trends, brand comparisons, and sales insights — built with Power BI / Tableau.
 
 ## Overview
@@ -10,7 +11,7 @@ This dashboard provides a comprehensive analysis of mobile phone pricing and sal
 - 🔄 Interactive drill-downs for in-depth exploration
 
 ## Tools & Technologies
-- Power BI / Tableau — dashboard design and visualization
+- Power BI  — dashboard design and visualization
 - Microsoft Excel / CSV — data source and preprocessing
 - DAX / Calculated Fields — custom KPIs and measures
 
